@@ -1,0 +1,16 @@
+Write Title Here
+Length
+10
+E and I
+100 100
+Number of Elements
+10
+Number of Supports
+1
+Node Arrest_Displacement Arrest_Rotation
+0 1 1
+Number of Forces
+1
+Type Location Force (OR) Type Node1 Node2 A B
+1 0 10 0 100
+
